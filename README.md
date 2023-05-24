@@ -1,7 +1,9 @@
-# Punto 4 Tp de React para RollingCode
+# Punto 5 Tp de React para RollingCode
 
 Crear una aplicación web que muestre una lista de tareas, al ingresar una tarea
 en el input y presionar enter, esta tarea se debe mostrar en una lista
+Modifica el programa anterior para que las tareas se puedan almacenar en el
+localstorage.
 
 ## Pasos para correr la app
 
